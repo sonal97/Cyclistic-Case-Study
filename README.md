@@ -13,4 +13,4 @@ Design marketing strategies aimed at converting casual riders into annual member
 
 
 
-**You'll find the written report on my data analysis process in the cyclistic-case-study.pdf file above.**
+**You'll find the written report on my data analysis process in the Cyclistic Case Study.pdf file above.**
